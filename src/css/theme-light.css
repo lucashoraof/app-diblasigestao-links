@@ -10,8 +10,8 @@
   --card-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   --card-shadow-hover: 0 5px 15px rgba(0, 0, 0, 0.1);
   --card-shadow-active: 0 3px 8px rgba(0, 0, 0, 0.08);
-  --primary-blue: #0071e3;
-  --primary-blue-dark: #0058b9;
+  --primary-blue: #f6793b;
+  --primary-blue-dark: #eb6725;
 }
 
 /* Ajustes específicos para o tema claro */
